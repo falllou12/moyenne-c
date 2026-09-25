@@ -13,6 +13,7 @@ int main() {
 
     moyenne = (note1 + note2) / 2.0;
 
+
     printf("\nVotre moyenne est de : %.2f/20\n", moyenne);
 
     if (moyenne >= 10.0) {
